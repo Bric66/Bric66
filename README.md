@@ -4,20 +4,10 @@
 ![nodejs-banner](https://user-images.githubusercontent.com/115704191/209790225-9ef71e9d-b1e9-4d52-9944-2672174fc529.jpg)
 
 
+![node](https://user-images.githubusercontent.com/115704191/209797979-d6e092c7-d7df-4402-aa6b-4b2820af4ece.png)
+![icons8-typescript-48](https://user-images.githubusercontent.com/115704191/209798925-bfb4b8f3-65fc-445c-aedb-9bc5246cda40.png)
+![icons8-sendgrid-50](https://user-images.githubusercontent.com/115704191/209799151-b7c85e44-d834-462d-bb3c-906e261876ea.png)
 
-{
-  "urlPrefix": "https://github.com/get-icon/geticon/raw/master/icons/",
-  "inputFile": "input.txt",
-  "outputFile": "output.md",
-  "iconSizeInPixel": 21,
-  "template": "<a href=\"${itemWebsiteUrl}\" title=\"${itemFormalName}\"><img src=\"${urlPrefix}${itemSvgUrl}\" alt=\"${itemFormalName}\" width=\"${iconSizeInPixel}px\" height=\"${iconSizeInPixel}px\"></a>",
-  "separator": "\n"
-}
-
-
-![react-logo](https://readme-components.vercel.app/api?component=logo&logo=react)
-![ts-logo](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg)
-![node-logo](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs.svg)
 
 
 
