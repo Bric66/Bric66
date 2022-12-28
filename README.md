@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cédric HEROUARD</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bric66&left_color=green&right_color=red)
+ ![Visitor Count](https://profile-counter.glitch.me/Bric66/count.svg)
 
 - 🔭 I’m currently working on [Sweet](https://github.com/AntonioliBenjamin/Sweet)
 
@@ -31,8 +31,7 @@
   <!--LOGO-MONGOOSE-->  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115704191/209806585-02462629-0d16-4857-b6e4-6d1f8ca503c8.png" alt="mongoose" width="40" height="40"/> </a>
  </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bric66&show_icons=true&locale=en&layout=compact" alt="bric66" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bric66&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bric66&show_icons=true&locale=en" alt="bric66" /></p>
 
