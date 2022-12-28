@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://raw.githubusercontent.com/AntonioliBenjamin/AntonioliBenjamin/main/nodejs-banner.jpg
+![nodejs-banner](https://user-images.githubusercontent.com/115704191/209790225-9ef71e9d-b1e9-4d52-9944-2672174fc529.jpg)
+
 <!--
 **Bric66/Bric66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
