@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi!! I'm Cédric HEROUARD,     **Node.JS Developer**
 ![nodejs-banner](https://user-images.githubusercontent.com/115704191/209790225-9ef71e9d-b1e9-4d52-9944-2672174fc529.jpg)
 
 <!--
