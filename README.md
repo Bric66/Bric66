@@ -5,6 +5,7 @@
 
 
 ![node](https://user-images.githubusercontent.com/115704191/209797979-d6e092c7-d7df-4402-aa6b-4b2820af4ece.png)
+![icons8-javascript](https://user-images.githubusercontent.com/115704191/209799704-fbe74d1f-f468-4e31-9f20-9e6a7b6eccd4.gif)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/115704191/209798925-bfb4b8f3-65fc-445c-aedb-9bc5246cda40.png)
 ![icons8-sendgrid-50](https://user-images.githubusercontent.com/115704191/209799151-b7c85e44-d834-462d-bb3c-906e261876ea.png)
 
