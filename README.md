@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cédric HEROUARD</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bric66&label=Profile%20views&color=0e75b6&style=flat" alt="bric66" /> </p>
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bric66" alt="bric66" /></a> </p>-->
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bric66&left_color=green&right_color=red)
 
 - 🔭 I’m currently working on [Sweet](https://github.com/AntonioliBenjamin/Sweet)
 
