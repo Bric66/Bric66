@@ -34,6 +34,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bric66&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bric66&show_icons=true&locale=en" alt="bric66" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bric66&" alt="bric66" /></p>
