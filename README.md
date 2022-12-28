@@ -29,8 +29,8 @@
 <!--LOGO-MONGODB-->  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
    <!--LOGO-GIT-->  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <!--LOGO-POSTMAN-->  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <!--LOGO-SENDGRID-->  <a href="[https://postman.com](https://sendgrid.com/)" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115704191/209805849-fe6a542d-3381-4c98-af0d-48edc0a96c31.png" alt="sendgrid" width="40" height="40"/> </a>
-  
+  <!--LOGO-SENDGRID-->  <a href="https://sendgrid.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115704191/209805849-fe6a542d-3381-4c98-af0d-48edc0a96c31.png" alt="sendgrid" width="40" height="40"/> </a>
+  <!--LOGO-MONGOOSE-->  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115704191/209806585-02462629-0d16-4857-b6e4-6d1f8ca503c8.png" alt="mongoose" width="40" height="40"/> </a>
  </p>
 
 
