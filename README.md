@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cédric HEROUARD</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
- ![Visitor Count](https://profile-counter.glitch.me/Bric66/count.svg)
+ 
 
 - 🔭 I’m currently working on [Sweet](https://github.com/AntonioliBenjamin/Sweet/tree/dev)
 
@@ -35,3 +35,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bric66&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bric66&" alt="bric66" /></p>
+
+![Visitor Count](https://profile-counter.glitch.me/Bric66/count.svg)
