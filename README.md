@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **clean architecture, SOLID principles**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Bric66](https://github.com/Bric66?tab=repositories)]([https://github.com/Bric66](https://github.com/Bric66?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/Bric66?tab=repositories]([https://github.com/Bric66](https://github.com/Bric66?tab=repositories))
 
 - 💬 Ask me about **Node.js, TypeScript**
 
