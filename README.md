@@ -3,7 +3,7 @@
 
  
 
-- 🔭 I’m currently working on [DDD-messaging-bus](https://github.com/AntonioliBenjamin/Sweet/tree/dev)
+- 🔭 I’m currently working on [DDD-messaging-bus]([https://github.com/AntonioliBenjamin/Sweet/tree/dev](https://github.com/Bric66/DDD-messaging-bus))
 
 - 🌱 I’m currently learning **clean architecture, SOLID principles**
 
