@@ -3,7 +3,7 @@
 
  
 
-- 🔭 I’m currently working on [be_my_bee]//(https://github.com/Bric66/DDD-messaging-bus)
+- 🔭 I’m currently working on [be_my_bee](//https://github.com/Bric66/DDD-messaging-bus)
 
 - 🌱 I’m currently learning **clean architecture, SOLID principles**
 
